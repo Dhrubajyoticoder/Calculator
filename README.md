@@ -6,9 +6,7 @@
 - Subtraction
 - Multiplication
 - Division
-- Exponentiation
-- Modulus
-- View Calculation History
+
 ## Supported Operations
 
 - **Addition (+):** Add two numbers.
