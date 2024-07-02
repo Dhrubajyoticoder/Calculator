@@ -9,3 +9,10 @@
 - Exponentiation
 - Modulus
 - View Calculation History
+## Supported Operations
+
+- **Addition (+):** Add two numbers.
+- **Subtraction (-):** Subtract the second number from the first.
+- **Multiplication (*):** Multiply two numbers.
+- **Division (/):** Divide the first number by the second. Note: Division by zero is handled.
+- **Terminate (C):** Exit the calculator.
